@@ -6,3 +6,5 @@ langchain_text_splitters
 langchain-chroma
 langchain-openai
 numexpr
+youtube_search
+langchain_experimental
